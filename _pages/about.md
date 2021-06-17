@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Unravelling genetic heterogeneity in common diseases to advance basic biology and precision treatment"
+title: "Unravelling genetic heterogeneity in common diseases"
 excerpt: "..."
 author_profile: true
 redirect_from: 
