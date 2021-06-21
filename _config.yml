@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dahl Lab"
-  avatar           : "profile.png"
-  bio              : "Statistical genetics research group at UChicago"
-  location         : "Chicago"
+  name             : #"Dahl Lab"
+  avatar           : #"profile.png"
+  bio              : #"Statistical genetics research group at UChicago"
+  location         : #"Chicago"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Andy+Dahl"
-  googlescholar    : "https://scholar.google.com/citations?user=mofYDz4AAAAJ&hl=en&oi=ao"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Andy+Dahl"
+  googlescholar    : #"https://scholar.google.com/citations?user=mofYDz4AAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andywdahl"
+  github           : #"andywdahl"
   google_plus      :
   keybase          :
   instagram        :
