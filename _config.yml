@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dahl Lab"
+title                    : #"Dahl Lab"
 title_separator          : "-"
-name                     : &name "Dahl Lab"
-description              : &description "Research group in Genetic Medicine at UChicago"
+name                     : #&name "Dahl Lab"
+description              : #&description "Research group in Genetic Medicine at UChicago"
 url                      : qqq #https://andywdahl.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : qqq #"andywdahl.github.io"
